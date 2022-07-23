@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/two-factor-authentication-sim-cloning/main/two-factor-authentication-sim-swapping.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/two-factor-authentication-sim-swapping/main/two-factor-authentication-sim-swapping.png"></p>
 
 An adversary may utilize a sim swapping attack for defeating 2fa authentication.
 
